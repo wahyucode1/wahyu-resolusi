@@ -3,8 +3,12 @@ RENCANA KONTEN WAHYU
 -JAVASCRIPTS
 * ES6
 * Framework javascript
+  ^VUE
 ====================================
 -JAVA
 ====================================
 -CSS LAYOUTING
 -STRUKTUR DATA DASAR
+-PHP Frameworks
+ ^LARAVEL
+-PYTHON
