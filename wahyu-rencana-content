@@ -4,7 +4,6 @@ RENCANA KONTEN WAHYU
 * ES6
 * Framework javascript
   ^VUE
-  ^REACT
 ====================================
 -JAVA
 ====================================
@@ -13,3 +12,4 @@ RENCANA KONTEN WAHYU
 -PHP Frameworks
  ^LARAVEL
 -PYTHON
+
